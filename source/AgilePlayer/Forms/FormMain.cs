@@ -724,11 +724,11 @@ namespace APlayer
         }
         private void helpToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            Process.Start("https://github.com/alaahadid/Agile-Player/wiki");
+            Process.Start("https://github.com/jegqamas/Agile-Player/wiki");
         }
         private void websiteOnlineRepositoryToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Process.Start("https://github.com/alaahadid/Agile-Player/");
+            Process.Start("https://github.com/jegqamas/Agile-Player/");
         }
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
